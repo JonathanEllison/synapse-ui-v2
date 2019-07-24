@@ -1,0 +1,21 @@
+export default {
+    rootPath: "/",
+    adConfigPath: "/",
+    adIngesterPath: "/",
+    araPath: "/",
+    errorReportPath: "/",
+    libraryPath: "/",
+    relayPath: "/relay",
+    cdnMapperPath: "/",
+    smpPath: "/",
+    notAuthPath: "/notAuthorized",
+    notFoundPath: "/notFound",
+    adConfig: "Ad Configuration",
+    adIngester: "Ad Ingester",
+    ara: "Ara",
+    errorReport: "Error Reporting",
+    library: "Library",
+    relay: "ODT Relays",
+    cdnMapper: "Origin CDN Mapper",
+    smp: "SMP"
+}
